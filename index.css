@@ -215,3 +215,27 @@ body {
   .blog-entry .meta > div a {
     font-size: 15px;
     color: #8c8c8c; }
+
+
+  .image-container {
+      width: 350px; /* Adjust the width and height as needed */
+      height: 350px;
+      overflow: hidden;
+      border-radius: 50%;
+      position: relative;
+      background-color: #f0f0f0; /* Optional background color */
+  }
+  
+  .image {
+      position: absolute;
+      width: 92%;
+      height: 140%;
+      background-image: url('images/amogh_profile.JPG');
+      background-size: cover;
+      background-position: center right ;
+      transform: scale(3.8); /* Adjust the scale value to zoom in/out (e.g., 1.2 for 20% zoom in) */
+      border-radius: 50%;
+  }
+  
+  
+  
