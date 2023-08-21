@@ -230,7 +230,7 @@ body {
       position: absolute;
       width: 92%;
       height: 140%;
-      background-image: url('images/amogh_profile.JPG');
+      background-image: url('https://drive.google.com/file/d/1iAXZvENfPbbhcMzSrLQgY0OqSID9Q1dl/view?usp=sharing');
       background-size: cover;
       background-position: center right ;
       transform: scale(3.8); /* Adjust the scale value to zoom in/out (e.g., 1.2 for 20% zoom in) */
