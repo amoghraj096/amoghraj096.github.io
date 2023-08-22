@@ -228,12 +228,12 @@ body {
   
   .image {
       position: absolute;
-      width: 92%;
-      height: 140%;
-      background-image: url('images/amogh_profile.JPG');
+      width: 150%;
+      height: 110%;
+      background-image: url('images/amogh_profile_1.JPG');
       background-size: cover;
       background-position: center right ;
-      transform: scale(3.8); /* Adjust the scale value to zoom in/out (e.g., 1.2 for 20% zoom in) */
+      transform: scale(1.2); /* Adjust the scale value to zoom in/out (e.g., 1.2 for 20% zoom in) */
       border-radius: 50%;
   }
   
