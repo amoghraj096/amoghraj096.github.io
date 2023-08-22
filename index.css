@@ -230,7 +230,7 @@ body {
       position: absolute;
       width: 150%;
       height: 110%;
-      background-image: url('images/amogh_profile_1.jpg');
+      background-image: url('assets/amogh_profile_1.jpg');
       background-size: cover;
       background-position: center right ;
       transform: scale(1.2); /* Adjust the scale value to zoom in/out (e.g., 1.2 for 20% zoom in) */
